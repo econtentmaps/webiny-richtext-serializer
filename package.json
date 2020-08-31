@@ -1,0 +1,15 @@
+{
+    "name": "webiny-richtext-serializer",
+    "version": "1.0.1",
+    "description": "simple react hook to serialise webiny richtext fields to html",
+    "main": "useRichTextSerialiser.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "James Hunter <james@econtentmaps.com>",
+    "license": "MIT",
+    "dependencies": {
+        "escape-html": "^1.0.3",
+        "slate": "^0.58.4"
+    }
+}
